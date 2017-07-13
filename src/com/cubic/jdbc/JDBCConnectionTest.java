@@ -27,7 +27,7 @@ public class JDBCConnectionTest {
 				}
 			
 		conn.close();
-		System.out.println("Connection closed.");
+		System.out.println("Connection closed..");
 		
 		
 
